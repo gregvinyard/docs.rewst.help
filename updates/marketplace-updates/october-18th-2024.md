@@ -9,7 +9,7 @@ This can be anything from new crates, enhancements, or bug fixes!
 <summary><strong>New crates and enhancements</strong></summary>
 
 * Create Ticket Workflow
-  * Updated workflow to reomve deprecated actions
+  * Updated workflow to remove deprecated actions
   * Added more subworkflows where appropriate
 * Moved Security/Distribution Group additions for M365 into subworkflows.
 
