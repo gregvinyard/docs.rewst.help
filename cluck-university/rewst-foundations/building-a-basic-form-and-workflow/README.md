@@ -25,11 +25,11 @@ When you've completed this training, don't forget to [check your knowledge](./#w
 
 To get started, select the first module. Each module includes a video and written guidance with resources, followed by navigation to go back/forward. To wrap up the lesson, visit [Next Steps](./#next-steps).
 
-1. [From Workflow Sketch to Rewst Prototype](from-workflow-sketch-to-rewst-prototype.md) (_1:46 Minutes_)
-2. [Building the "Add or Remove User - Microsoft Group" Form](creating-the-add-remove-user-workflow.md) (_5:22 Minutes_)
-3. [Creating the "Add or Remove User - Microsoft Group" Workflow](creating-the-add-remove-user-workflow.md) (_4:57 Minutes_)
-4. [Adding Actions to the "Add or Remove User - Microsoft Group" Workflow](adding-actions-to-add-remove-workflow.md) (5_:46 Minutes_)
-5. [Testing the "Add or Remove User - Microsoft Group" Form](testing-the-add-remove-form.md) (3_:20 Minutes_)
+1. [From Workflow Sketch to Rewst Prototype](from-workflow-sketch-to-rewst-prototype.md) (2 _Minutes_)
+2. [Building the "Add or Remove User - Microsoft Group" Form](creating-the-add-remove-user-workflow.md) (6 _Minutes_)
+3. [Creating the "Add or Remove User - Microsoft Group" Workflow](creating-the-add-remove-user-workflow.md) (5 _Minutes_)
+4. [Adding Actions to the "Add or Remove User - Microsoft Group" Workflow](adding-actions-to-add-remove-workflow.md) (6 _Minutes_)
+5. [Testing the "Add or Remove User - Microsoft Group" Form](testing-the-add-remove-form.md) (4 _Minutes_)
 
 ### Lesson Resources
 

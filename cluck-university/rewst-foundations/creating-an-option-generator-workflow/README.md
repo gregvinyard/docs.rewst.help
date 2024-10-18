@@ -23,10 +23,10 @@ In this lesson, we review context data from the form and workflow that you creat
 
 To get started, select the first module. Each module includes a video and written guidance with resources, followed by navigation to go back/forward. To wrap up the lesson, visit [Next Steps](./#next-steps).
 
-1. Introduction to Option Generators (6:08 Minutes)
-2. How to Create, Configure, and Trigger an Option Generator Workflow (4_:23 Minutes)_
-3. Using Jinja in Data Aliases and Creating an API Request Action (12_:52 Minutes)_
-4. Connecting an Option Generator Workflow to a Rewst Form (5_:55 Minutes)_
+1. Introduction to Option Generators (6 Minutes)
+2. How to Create, Configure, and Trigger an Option Generator Workflow (5 _Minutes)_
+3. Using Jinja in Data Aliases and Creating an API Request Action (13 _Minutes)_
+4. Connecting an Option Generator Workflow to a Rewst Form (6 _Minutes)_
 
 ### Lesson Resources
 
@@ -62,4 +62,4 @@ Take a quick quiz and get instant feedback!
 
 We've created a workflow and set it up as an Option Generator to populate the group field with relevant groups, depending on whether the user is being added or removed from a group. In the next lesson, we'll complete the workflow to handle all group types.
 
-<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Go back a lesson:</td><td align="center"></td><td></td></tr><tr><td align="center">Go to the next lesson:</td><td align="center"></td><td></td></tr><tr><td align="center">Get help with this lesson in office hours!</td><td align="center"><a data-mention href="../../office-hours.md">office-hours.md</a></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Go back a lesson: <a data-mention href="../jinja-essentials-for-workflow-automation/">jinja-essentials-for-workflow-automation</a></td><td align="center"></td><td></td></tr><tr><td align="center">Go to the next lesson: <a data-mention href="../managing-workflow-paths/">managing-workflow-paths</a></td><td align="center"></td><td></td></tr><tr><td align="center">Get help with this lesson in office hours!</td><td align="center"><a data-mention href="../../office-hours.md">office-hours.md</a></td><td></td></tr></tbody></table>

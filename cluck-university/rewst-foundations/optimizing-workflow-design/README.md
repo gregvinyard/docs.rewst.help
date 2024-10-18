@@ -24,12 +24,12 @@ In this lesson, we create a parent workflow that will contain the workflow that 
 
 To get started, select the first module. Each module includes a video and written guidance with resources, followed by navigation to go back/forward. To wrap up the lesson, visit [Next Steps](./#next-steps).
 
-1. [using-a-sub-workflow-to-update-multiple-groups.md](using-a-sub-workflow-to-update-multiple-groups.md "mention") (5 Min)
-2. [updating-the-add-or-remove-user-form.md](updating-the-add-or-remove-user-form.md "mention") (4 Min)
-3. [creating-a-new-parent-workflow.md](creating-a-new-parent-workflow.md "mention") (4 Min)
-4. [sub-workflow-and-with-items-overview.md](sub-workflow-and-with-items-overview.md "mention") (6 min)
-5. [adding-other-parent-workflow-actions.md](adding-other-parent-workflow-actions.md "mention") (12 min)
-6. [testing-the-final-workflow.md](testing-the-final-workflow.md "mention") (3 Min)
+1. [using-a-sub-workflow-to-update-multiple-groups.md](using-a-sub-workflow-to-update-multiple-groups.md "mention") (_5 Minutes_)
+2. [updating-the-add-or-remove-user-form.md](updating-the-add-or-remove-user-form.md "mention") (_4 Minutes_)
+3. [creating-a-new-parent-workflow.md](creating-a-new-parent-workflow.md "mention") (_4 Minutes_)
+4. [sub-workflow-and-with-items-overview.md](sub-workflow-and-with-items-overview.md "mention") (_6 Minutes_)
+5. [adding-other-parent-workflow-actions.md](adding-other-parent-workflow-actions.md "mention") (_12 Minutes_)
+6. [testing-the-final-workflow.md](testing-the-final-workflow.md "mention") (_3 Minutes_)
 
 ### Lesson Resources
 

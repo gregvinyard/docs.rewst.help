@@ -22,9 +22,9 @@ In this lesson, we update the "Add or Remove User - Microsoft Group" workflow to
 
 To get started, select the first module. Each module includes a video and written guidance with resources, followed by navigation to go back/forward. To wrap up the lesson, visit [#next-steps](./#next-steps "mention").
 
-1. [introduction-to-workflow-logic-microsoft-apis.md](introduction-to-workflow-logic-microsoft-apis.md "mention") (3 Min)
-2. [getting-object-properties-for-microsoft-groups.md](getting-object-properties-for-microsoft-groups.md "mention") (9 Min)
-3. [creating-a-microsoft-exchange-online-path-in-the-workflow.md](creating-a-microsoft-exchange-online-path-in-the-workflow.md "mention") (6 Min)
+1. [introduction-to-workflow-logic-microsoft-apis.md](introduction-to-workflow-logic-microsoft-apis.md "mention") (_3 Minutes_)
+2. [getting-object-properties-for-microsoft-groups.md](getting-object-properties-for-microsoft-groups.md "mention") (_9 Minutes_)
+3. [creating-a-microsoft-exchange-online-path-in-the-workflow.md](creating-a-microsoft-exchange-online-path-in-the-workflow.md "mention") (_6 Minutes_)
 
 ### Lesson Resources
 

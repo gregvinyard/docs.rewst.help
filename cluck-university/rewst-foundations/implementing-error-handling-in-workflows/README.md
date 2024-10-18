@@ -7,7 +7,7 @@ description: >-
 
 # Lesson 6: Implementing Error-Handling in Rewst Workflows
 
-## What to Eggs-pect
+t to Eggs-pect
 
 After completing this lesson, participants will be able to:
 
@@ -23,8 +23,8 @@ In this lesson, we finish the "Add or Remove User - Microsoft Group" workflow. M
 
 To get started, select the first module. Each module includes a video and written guidance with resources, followed by navigation to go back/forward. To wrap up the lesson, visit [#next-steps](./#next-steps "mention")
 
-1. [adding-error-handling-to-workflow-actions.md](adding-error-handling-to-workflow-actions.md "mention") (7 min)
-2. [implementing-error-handling-with-feedback-messages.md](implementing-error-handling-with-feedback-messages.md "mention") (5 Min)
+1. [adding-error-handling-to-workflow-actions.md](adding-error-handling-to-workflow-actions.md "mention") (_7 Minutes_)
+2. [implementing-error-handling-with-feedback-messages.md](implementing-error-handling-with-feedback-messages.md "mention") (_5 Minutes_)
 
 ### Lesson Resources
 
@@ -39,7 +39,7 @@ You can also find more information in our FAQ page: [#what-does-this-error-mean-
 
 ## Next Steps
 
-Complete the **Knowledge Check** and remember to **Get Credit** for your learning.&#x20;
+Complete the **Knowledge Check** and remember to **Get Credit** for your learning.
 
 ### What Did You Learn?
 
@@ -58,3 +58,6 @@ Take a quick quiz and get instant feedback!
 We implemented error handling by adding feedback messages to notify us of the success or failure of our Graph and Exchange Online actions. We also briefly touched on the Task Transition Criteria Sensitivity setting, which will be covered in more detail in \[lesson here].
 
 In the next lesson, we'll wrap up by optimizing the workflow, streamlining the feedback messages to be sent directly to the person who filled out the form, and enhancing both the workflow's functionality and design.
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Go back a lesson: <a data-mention href="../managing-workflow-paths/">managing-workflow-paths</a></td><td></td><td></td></tr><tr><td>Go to the next lesson: <a data-mention href="../optimizing-workflow-design/">optimizing-workflow-design</a></td><td></td><td></td></tr><tr><td>Get help with this lesson in Office Hours!<br><a data-mention href="../../office-hours.md">office-hours.md</a></td><td></td><td></td></tr></tbody></table>
+

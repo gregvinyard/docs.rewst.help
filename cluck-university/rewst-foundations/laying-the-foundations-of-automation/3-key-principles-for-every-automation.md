@@ -8,7 +8,7 @@ description: >-
 
 ## Module Overview
 
-💡 The following principles will help you scope and build effective automations, no matter your goal or starting point. Use the <mark style="color:red;">Workflow Design Worksheet</mark> to guide you through the scoping process.
+💡 The following principles will help you scope and build effective automations, no matter your goal or starting point. Use the [<mark style="color:blue;">Workflow Design Worksheet</mark>](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FAQQ1EHVcEsGKBPVHmiav%2Fuploads%2FuRW8KH7r5T6EIW4fGgzG%2FRewst%20Workflow%20Design%20Worksheet.pdf?alt=media\&token=d2d3aa4e-f0db-417b-81c8-1a31414e500c) to guide you through the scoping process.
 
 ### Video (_4:31 Minutes_)
 
@@ -34,7 +34,7 @@ This may be time saved or a different metric (or set of metrics), and goes back 
 
 ### Action Items
 
-* Use the <mark style="color:red;">Workflow Design Worksheet</mark> to support scoping your first automation. Keep it simple -- selecting a well-defined, automatable task that's part of a larger process is a great starting point.&#x20;
+* Use the [<mark style="color:blue;">Workflow Design Worksheet</mark>](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FAQQ1EHVcEsGKBPVHmiav%2Fuploads%2FuRW8KH7r5T6EIW4fGgzG%2FRewst%20Workflow%20Design%20Worksheet.pdf?alt=media\&token=d2d3aa4e-f0db-417b-81c8-1a31414e500c) to support scoping your first automation. Keep it simple -- selecting a well-defined, automatable task that's part of a larger process is a great starting point.&#x20;
 * Make sure to collaborate with stakeholders to ensure your task/process is well-documented, and consider creating a diagram/flowchart to help you translate these starting points into the visual interface of a Rewst workflow.
 
 ## Navigation

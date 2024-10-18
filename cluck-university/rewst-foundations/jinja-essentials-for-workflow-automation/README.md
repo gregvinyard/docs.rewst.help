@@ -20,11 +20,11 @@ In this lesson, we review context data from the form and workflow that you creat
 
 To get started, select the first module. Each module includes a video and written guidance with resources, followed by navigation to go back/forward. To wrap up the lesson, visit [Next Steps](./#next-steps).
 
-1. [Introduction to Jinja, JSON, and The Context](intro-to-jinja-json-the-context.md) (_1:10 Minutes + 3:50 Minutes_)
-2. [Basic Jinja Syntax and Filters](basic-jinja-syntax-and-filters.md) (_5:21 Minutes_)
-3. [Jinja List Comprehension](jinja-list-comprehension.md) (_3:16 Minutes_)
-4. [Jinja List Comprehension Examples](jinja-list-comprehension-examples-them-apples.md) _(4:56 Minutes_)
-5. [Using Jinja in Rewst Workflows](using-jinja-in-rewst-workflows.md) _(6:31 Minutes_)
+1. [Introduction to Jinja, JSON, and The Context](intro-to-jinja-json-the-context.md) (5 _Minutes_)
+2. [Basic Jinja Syntax and Filters](basic-jinja-syntax-and-filters.md) (6 _Minutes_)
+3. [Jinja List Comprehension](jinja-list-comprehension.md) (4 _Minutes_)
+4. [Jinja List Comprehension Examples](jinja-list-comprehension-examples-them-apples.md) _(5 Minutes_)
+5. [Using Jinja in Rewst Workflows](using-jinja-in-rewst-workflows.md) _(7 Minutes_)
 
 ### Lesson Resources
 
