@@ -10,7 +10,6 @@ This can be anything from new features, bug fixes, or QoL changes!
 
 * New Org Picker
 * Added new triggers for Webroot
-* App Platform page export/import functionality
 * Added a new jinja filter `is_json` to test if a string is json serializable
 * Added a new slack action to invite users to slack
 * Added a trigger for Rewst Crate publish
@@ -57,6 +56,7 @@ This can be anything from new features, bug fixes, or QoL changes!
 * Synnex Australia integration (QA review)
 * Cove integration (QA review)
 * Github integration (QA Review)
+* App Platform page export/import functionality
 
 </details>
 
