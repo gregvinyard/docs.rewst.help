@@ -42,6 +42,7 @@ This can be anything from new features, bug fixes, or QoL changes!
 * Added keyboard navigation for new org picker
 * Fixed the following actions for Synnex AU: Check Domain Availability, Purchase Addon Plans CSP, Get Google Workspace Domain Availability, and Purchase Addon for Google Workspace
 * Updated the `to_human_time_from_seconds` jinja filter to not round floats
+* JSON RPC Base Client
 
 </details>
 
@@ -66,6 +67,7 @@ This can be anything from new features, bug fixes, or QoL changes!
 * Crushbank integration (Code review)
 * Nodeware integration (Code review)
 * SQL Database integration refactor (Code review)
-* JSON RPC Base Client (Code review)
+* ConnectSecure v4 (In development)
+* Pax8 Refactor (In development)
 
 </details>
