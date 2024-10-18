@@ -34,7 +34,7 @@ Explore what new changes the Training team has made in the last week.
 
 **The List of Reminders:**
 
-* We'd love to get your feedback on our Training and Documentation! [Please fill out this form to let us know how we can improve](https://app.sli.do/event/m8C3AjPUnuDgpkVDmPsQL3)!
+* We'd love to get your feedback on our Training and Documentation! [Please fill out this form to let us know how we can improve](https://www.surveymonkey.com/r/rewsttrainingfeedback)!
 * You can make training and documentation requests at [https://rewst.canny.io/](https://rewst.canny.io/)
 
 **New & Updated Pages:**
