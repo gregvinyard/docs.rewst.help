@@ -10,7 +10,6 @@ This can be anything from new features, bug fixes, or QoL changes!
 
 * New Org Picker
 * Added new triggers for Webroot
-* App Platform page export/import functionality
 * Added a new jinja filter `is_json` to test if a string is json serializable
 * Added a new slack action to invite users to slack
 * Added a trigger for Rewst Crate publish
@@ -39,7 +38,6 @@ This can be anything from new features, bug fixes, or QoL changes!
 * Fixed padding for option generated drop down fields
 * Fixed parameters for Create and Update Network actions for DNSFilter integration
 * Increased the max page size for Liongard
-* Added keyboard navigation for new org picker
 * Fixed the following actions for Synnex AU: Check Domain Availability, Purchase Addon Plans CSP, Get Google Workspace Domain Availability, and Purchase Addon for Google Workspace
 * Updated the `to_human_time_from_seconds` jinja filter to not round floats
 * JSON RPC Base Client
@@ -57,6 +55,7 @@ This can be anything from new features, bug fixes, or QoL changes!
 * Synnex Australia integration (QA review)
 * Cove integration (QA review)
 * Github integration (QA Review)
+* App Platform page export/import functionality
 
 </details>
 
