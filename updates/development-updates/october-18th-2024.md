@@ -38,7 +38,6 @@ This can be anything from new features, bug fixes, or QoL changes!
 * Fixed padding for option generated drop down fields
 * Fixed parameters for Create and Update Network actions for DNSFilter integration
 * Increased the max page size for Liongard
-* Added keyboard navigation for new org picker
 * Fixed the following actions for Synnex AU: Check Domain Availability, Purchase Addon Plans CSP, Get Google Workspace Domain Availability, and Purchase Addon for Google Workspace
 * Updated the `to_human_time_from_seconds` jinja filter to not round floats
 * JSON RPC Base Client
