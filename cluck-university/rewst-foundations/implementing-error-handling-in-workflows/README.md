@@ -32,8 +32,9 @@ To get started, select the first module. Each module includes a video and writte
 * [how-to-use-powershell-in-rewst.md](../../electives/how-to-use-powershell-in-rewst.md "mention")
 * [advanced-automation-concepts.md](../../clean-automation/advanced-automation-concepts.md "mention")
 * [navigating-between-tasks-with-transitions.md](../../../documentation/workflows/configuring-your-workflow-tasks/navigating-between-tasks-with-transitions.md "mention")
-* [#what-does-this-error-mean-unreachablejoinerror-the-join-task-or-route-xxxxxxx-is-partially-satisfied](../../../faqs/frequently-asked-questions.md#what-does-this-error-mean-unreachablejoinerror-the-join-task-or-route-xxxxxxx-is-partially-satisfied "mention")
 * [how-to-reference-data-with-variables.md](../../electives/how-to-reference-data-with-variables.md "mention")
+
+You can also find more information in our FAQ page: [#what-does-this-error-mean-unreachablejoinerror-the-join-task-or-route-xxxxxxx-is-partially-satisfied](../../../faqs/frequently-asked-questions.md#what-does-this-error-mean-unreachablejoinerror-the-join-task-or-route-xxxxxxx-is-partially-satisfied "mention")
 {% endhint %}
 
 ## Next Steps
