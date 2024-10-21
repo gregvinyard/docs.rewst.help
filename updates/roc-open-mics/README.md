@@ -8,27 +8,27 @@ Join us live every Friday at 3 pm EST!
 
 ## Latest Open Mic Video Recording
 
-{% embed url="https://youtu.be/bErKUptlMAY" %}
+{% embed url="https://youtu.be/4_vbGZfyS1c" %}
 
 
 
 ### Contents of the Recording:
 
-🎤 Aharon kicks off the Open Mic&#x20;
+🎤 Danial "Aharon" Gagne introduces the Open Mic.&#x20;
 
-💻 Nick gives Dev Updates&#x20;
+🛠️ Nick provides updates from the Dev Team.&#x20;
 
-📦 Danial shares crate stats and updates&#x20;
+🛍️ Danial gives Crate Marketplace updates.&#x20;
 
-🎓 Eddie provides updates from the EDU team&#x20;
+🎓 Brandon shares updates from the Education team.&#x20;
 
-🔄 Jen demos an automation to sync licensed users from a global address list to iPhone contacts, handling duplicates and mismatched names&#x20;
+💻 Jim-Berry demos an onboard computer automation built in collaboration with Raven Automation.
 
-🔐 Brandon showcases a workflow accessing Azure AD Entra data via device login, bypassing Graph API limitations&#x20;
+&#x20;🔧 Logan demonstrates an automation that configures extension attributes to manage custom user attributes for dynamic groups and license assignments.&#x20;
 
-🛠️ Jim-Berry seeks help automating a VM restart when evicted due to capacity issues&#x20;
+🤖 Daniel showcased a Teams workflow bot to automate tasks like ticketing, client info retrieval, and temporary admin elevation with Duo.&#x20;
 
-🧩 Reed talks about standardizing workflows to automate inputs, outputs, and error handling
+⚙️ Aaron walks through adapting a workflow for Google Workspace
 
 
 
