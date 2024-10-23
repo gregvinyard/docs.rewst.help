@@ -42,3 +42,43 @@ Below is a high-level walkthrough of what you need to configure your owned app i
    * Choose **Tenant ID** if your registration is restricted to your own tenant, and ensure this ID is included in the **Tenant ID** field to generate the correct authentication URL.
 
 ***
+
+## **Minimum Permissions Needed**
+
+### Azure Integration
+
+In order to use the Azure Integration, you will need the following at minimum:&#x20;
+
+<figure><img src="../../../../.gitbook/assets/azure_permissions_needed.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="danger" %}
+Depending on the use-case, you may require the other two shown above.&#x20;
+{% endhint %}
+
+### Microsoft Graph Integration
+
+In order to use the Graph Integration, you'll need the following highlighted in red at minimum to authorize the integration. The following highlighted in yellow are also highly recommended to ensure all expected actions work:&#x20;
+
+<figure><img src="../../../../.gitbook/assets/graph_permissions_needed.png" alt=""><figcaption></figcaption></figure>
+
+### Microsoft Graph Subscription Triggers&#x20;
+
+In order to use the Microsoft Graph Subscription Triggers, the following permissions are required:&#x20;
+
+<figure><img src="../../../../.gitbook/assets/MS_Graph_Triggers_permissions_needed.png" alt=""><figcaption></figcaption></figure>
+
+### CSP Integration
+
+There is only one permission required to use the CSP integration:
+
+<figure><img src="../../../../.gitbook/assets/csp_permissions_needed.png" alt=""><figcaption></figcaption></figure>
+
+### EXO Integration
+
+In order to use the EXO Integration, the highlighted permissions are required:
+
+<figure><img src="../../../../.gitbook/assets/EXO_permissions_needed.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+The `full_access_as_app` permission is also recommended in some edge cases.
+{% endhint %}
