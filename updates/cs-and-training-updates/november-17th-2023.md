@@ -25,7 +25,7 @@ Explore what new changes the Training team has made in the last week.
 * Added a page for the [discord-integration-setup.md](../../documentation/integrations/chat/discord/discord-integration-setup.md "mention")
 * Added a page for the [jira-integration-setup.md](../../documentation/integrations/documentation/jira/jira-integration-setup.md "mention")
 * Added a page for the [Broken link](broken-reference "mention")
-* Added a page for [app-platform-coming-soon](../../documentation/app-platform-coming-soon/ "mention") and how to submit your[Broken link](broken-reference "mention") to us.
+* Added a page for [app-builder](../../documentation/app-builder/ "mention") and how to submit your[Broken link](broken-reference "mention") to us.
 * Added the [embracing-the-microsoft-minute.md](../../documentation/integrations/cloud/microsoft-cloud-integration-bundle/common-issues-with-microsoft-bundle/embracing-the-microsoft-minute.md "mention") page with tips on how to take advantage of little breaks where you can find them.
 * Added a page for the [view-rewst-integration-org-variables.md](../../prebuilt-automations/existing-crate-documentation/view-rewst-integration-org-variables.md "mention")Crate documentation.
 * Added page about [documenting-with-roborewsty.md](../../documentation/workflows/workflow-building-tips-and-tricks/workflow-notes/documenting-with-roborewsty.md "mention")
