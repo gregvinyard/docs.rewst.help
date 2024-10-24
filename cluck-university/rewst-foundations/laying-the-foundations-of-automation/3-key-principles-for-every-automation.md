@@ -12,7 +12,7 @@ description: >-
 
 ### Video (_4:31 Minutes_)
 
-{% embed url="https://youtu.be/He04KlDM_Ao" %}
+{% embed url="https://youtu.be/RekN7Qq9Dq8" %}
 
 <details>
 
