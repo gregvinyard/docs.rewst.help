@@ -1,49 +1,32 @@
----
-description: Create dynamic web applications powered by your Rewst workflows.
----
-
 # Getting Started
 
-{% hint style="danger" %}
-**Experimental Feature**
+#### Welcome to the App Builder Getting Started Guide!
 
-This is an advanced feature that does not offer the same level of support as Rewst's built-in integrations. While we have made efforts to ensure its stability, we recommend caution in using this feature in production environments until further testing and development have been completed.
-{% endhint %}
+Welcome, and congratulations on taking the first step toward building your first app on the App Builder platform! In this guide, we will walk you through creating your very first App, starting with a simple "Hello World" project. As we progress, you'll learn how to build powerful workflows, design user-friendly pages, and leverage the platform's in-built components to create your app without needing extensive coding experience.
 
-App Platform, when paired with the Rewst automations you know and love, lets you create dynamic web applications (AKA web sites) powered by workflows. Apps consist of pages, and pages are made up of components like images, text, forms, tables, charts, etc.
+**Why App Builder?**
 
-Rewst hosts your apps for you on a configurable subdomain of Rewst, with custom domains coming soon. You are free to fully customize your pages using our drag-and-drop page builder.
+Whether you're streamlining internal processes, enhancing user experiences, or developing entirely new services, App Builder enables you to create Apps with minimal effort and maximum flexibility.
 
-Learn more about App Platform by using it, or by reading through some of our documentation below.
+With the App Builder platform, you can:
 
-{% content-ref url="glossary.md" %}
-[glossary.md](glossary.md)
-{% endcontent-ref %}
+* Create Apps with ease, using drag-and-drop interfaces and pre-built components.
+* Utilise Rewst workflows and Jinja with a beautiful branded frontend that can be used by your techs and end users alike.
+* Design modern, stylised pages with built-in tools, eventually expanding to full CSS customisation for a professional, polished finish.
 
-{% content-ref url="manage-your-apps.md" %}
-[manage-your-apps.md](manage-your-apps.md)
-{% endcontent-ref %}
+**What We'll Accomplish**
 
-{% content-ref url="manage-your-pages.md" %}
-[manage-your-pages.md](manage-your-pages.md)
-{% endcontent-ref %}
+In this guide, we’ll focus on:
 
-{% content-ref url="page-builder.md" %}
-[page-builder.md](page-builder.md)
-{% endcontent-ref %}
+1. **Creating Your First App**: A simple "Hello World" to introduce the basics.
+2. **Building Your First Page**: Learn how to add structure to your app.
+3. **Designing a Workflow**: See how workflows bring your app to life.
+4. **Utilising Built-in Components**: Make your app functional with ready-made building blocks.
 
-{% content-ref url="domains.md" %}
-[domains.md](domains.md)
-{% endcontent-ref %}
+As we move through these steps, we’ll gradually evolve our project into a fully-functional Forms Portal—a complete system that your users can interact with. Later on, we’ll add CSS styling to ensure that your app not only works well but also looks great.
 
-{% content-ref url="permissions.md" %}
-[permissions.md](permissions.md)
-{% endcontent-ref %}
+**What’s Next?**
 
-{% content-ref url="authentication.md" %}
-[authentication.md](authentication.md)
-{% endcontent-ref %}
+We’ll start with the basics to get you comfortable with the platform. You’ll soon see how easy it is to build and scale your Apps. Each section of this guide will build on the last, taking you from a simple "Hello World" to a professional, end-user-friendly portal.
 
-{% content-ref url="themes.md" %}
-[themes.md](themes.md)
-{% endcontent-ref %}
+Let’s dive in and start building your first app!
