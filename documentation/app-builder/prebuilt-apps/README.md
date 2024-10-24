@@ -2,7 +2,9 @@
 
 ## Welcome to the Prebuilt Apps
 
-The Prebuilt Apps page is your gateway to powerful, ready-made solutions that enhance your workflows and user experience. Each app is designed to help you streamline operations, improve user satisfaction, and unlock valuable insights. Currently, the apps are available **on request**, and in the future, they will be made available for self-installation through the Marketplace. Explore our offerings below:
+The Prebuilt Apps page is your gateway to powerful, ready-made solutions that enhance your workflows and user experience. Each app is designed to help you streamline operations, improve user satisfaction, and unlock valuable insights. Currently, the apps are available **on request**, and in the future, they will be made available for self-installation through the Marketplace. Explore our offerings below and how to add custom styles below:
+
+***
 
 ### Available Apps
 
@@ -37,15 +39,18 @@ The **Reporting Portal** is designed for the MSP, offering powerful reporting ca
 
 ***
 
-For more detailed information about each app and how they can benefit your organisation, visit their individual pages, which include screenshots and additional feature breakdowns.
+### Adding Custom Styles to Prebuilt Apps
 
+Customizability has been a top priority in the development of the Prebuilt Apps. We wanted to make it effortless for users to apply their own branding, including colours and logos, without needing to manually adjust the app itself. To achieve this, we’ve built everything using templates and **HTML Containers**, but we’ve also simplified the process by creating an automation that lets you update these templates using hex codes—no need to learn CSS!
 
+You can use our pre-built form, which can be installed via a crate located [here](https://app.rewst.io/marketplace/crates/0192bf3c-1cc2-7726-b33b-ecf5878e559b). This form will guide you through updating the branding for any Prebuilt App. Simply select which app you want to update, choose between light or dark mode (yes, we’ve included a theme toggle for all our sites!), and we’ll display the current values set for the site. To update them, just input your desired hex codes, such as `#000000` for black.
+
+The best part? This customization works at both the MSP level and the client level. Depending on who logs into the portal, they’ll experience different branding—your clients can see their own custom look while your techs enjoy your MSP’s branding.  Simply run the form for whomever you want to update, the same way you do for normal client triggers.
+
+***
+
+For more detailed information about each app and how they can benefit your organization, visit their individual pages, which include screenshots and additional feature breakdowns.
 
 {% hint style="info" %}
 _All apps are currently available on request. Please refer to the FAQ for more details._
 {% endhint %}
-
-
-
-***
-
