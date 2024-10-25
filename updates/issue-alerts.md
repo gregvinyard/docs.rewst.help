@@ -2,6 +2,18 @@
 
 <details>
 
+<summary> ⚠️  Routine System Maintenance (October 26, 2024)</summary>
+
+**Date:** Saturday, October 26, 2024
+
+**Time:** 3PM to 3:30PM ET
+
+During this period, the system will remain online; however, you may experience temporary performance degradation, such as slower response times. We appreciate your understanding as we work to enhance the performance and reliability of our platform. If you have any concerns or experience significant issues, please reach out to our support team or your CSM.
+
+</details>
+
+<details>
+
 <summary> ⚠️  Slow User Interface (UI) Load Times (October 3rd, 2024)</summary>
 
 **Date:** Thursday, October 3rd, 2024
