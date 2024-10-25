@@ -5,7 +5,7 @@
 ## 🏫 Cluck University
 
 * [Welcome And Enrollment](cluck-university/welcome-and-enrollment.md)
-* [Getting Started ](cluck-university/getting-started/README.md)
+* [Getting Started](cluck-university/getting-started/README.md)
   * [Rewst Platform Overview](cluck-university/getting-started/rewst-platform-overview.md)
   * [Relationships within the Platform](cluck-university/getting-started/relationships-within-the-platform.md)
   * [Rewst Terminology](cluck-university/getting-started/rewst-terminology.md)
@@ -514,7 +514,8 @@
   * [November 4th 2022](updates/development-updates/november-4th-2022.md)
   * [October 28th 2022](updates/development-updates/october-28th-2022.md)
 * [Training Updates](updates/cs-and-training-updates/README.md)
-  * [October 18th, 2024](updates/cs-and-training-updates/october-18th-2024.md)
+  * [October 25, 2024](updates/cs-and-training-updates/october-18th-2024.md)
+  * [October 18, 2024](updates/cs-and-training-updates/october-18th-2024-1.md)
   * [October 11, 2024](updates/cs-and-training-updates/october-11-2024.md)
   * [October 4, 2024](updates/cs-and-training-updates/october-4-2024.md)
   * [September 27th, 2024](updates/cs-and-training-updates/september-20th-2024-1.md)
