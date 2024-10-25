@@ -15,6 +15,10 @@ Explore what new changes the Training team has made in the last week.
   * Michael, Dustin, Chris, Kris, Paul, Andres, Mikhael, Chris, Alden, Jean, Devin, Andrey, Jonathan, Thomas, Andy, and Kai
     * and...Kai PERFECT SCORES!!!
     * Take the new [clean-automation-certification.md](../../cluck-university/clean-automation/clean-automation-certification.md "mention")exam!
+* Rewst Foundations Bootcamp:
+  * Sign up: [https://calendly.com/cluck-u/](https://calendly.com/cluck-u/)
+    * [https://calendly.com/cluck-u/rewst-foundations-bootcamp-pt-1](https://calendly.com/cluck-u/rewst-foundations-bootcamp-pt-1)
+    * [https://calendly.com/cluck-u/rewst-foundations-bootcamp-pt-2](https://calendly.com/cluck-u/rewst-foundations-bootcamp-pt-2)
 * Join us in our [Cluck-U Discord channel](https://discord.com/channels/936789089703845988/1121465945295167588) if you have any questions, comments, or concerns!
 * [Sign up for the Office Hours](https://calendly.com/cluck-u/office-hours?) to work through any questions you have during and after training! If there is something you want us to cover, Let us know!
 
