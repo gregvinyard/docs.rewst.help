@@ -4,6 +4,14 @@ description: Step by Step
 
 # Rewst User Setup and GDAP Relationship Guidance
 
+## The Importance of Setting Up GDAP
+
+While effort is required to get GDAP set up up front, but this setup will allow you to automate from the MSP level and prevent the need to configure and manage a separate microsoft Integration for every single customer.&#x20;
+
+{% hint style="success" %}
+This guide walks through the process of setting up the GDAP relationship step-by-step. But manual processes are for the birds. Check out the [Configure New GDAP Relationship](https://app.rewst.io/marketplace/crates/019100c6-5290-7f70-a353-70c628cc7f2e) Crate!
+{% endhint %}
+
 ## Introduction
 
 This guide specifically goes over the following:
@@ -107,6 +115,10 @@ It is also necessary to add the user to the ‘AdminAgents’ group on the group
 {% endhint %}
 
 ## Partner Center
+
+{% hint style="success" %}
+If you do not already have a CSP relationship established, you can reference the [Microsoft Request A Relationship With A Customer documentation](https://learn.microsoft.com/en-us/partner-center/customers/request-a-relationship-with-a-customer).
+{% endhint %}
 
 1. **Navigate** to the [Microsoft Partner Center](https://partner.microsoft.com/en-us/dashboard/home).
 2. **Click** on _Customers_ once on the Partner Center home page.
