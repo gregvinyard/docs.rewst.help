@@ -46,8 +46,8 @@
         <tr>
             <td>form_default_aad_groups</td>
             <td>Used so that if the form forces a default, this is the value supplied in the if statement. Example is
-                [{"id": "68c2878a-6739-438c-bf5a-d8c2bea39573","label": "Dist Group Two"},{"id":
-                "936eb764-36c4-4ac6-b264-c532caeb217c","label": "Group Me Up Buttercup - Distribution"}]</td>
+                [{"id": "68c2878a-6739-438c-bf5a-d8c2bea39573","label": "AAD Group One"},{"id":
+                "936eb764-36c4-4ac6-b264-c532caeb217c","label": "Group Me Up Buttercup - Group"}]</td>
             <td>list</td>
         </tr>
         <tr>
@@ -60,21 +60,21 @@
         <tr>
             <td>form_default_onprem_groups</td>
             <td>Used so that if the form forces a default, this is the value supplied in the if statement. Example is
-                [{"id": "68c2878a-6739-438c-bf5a-d8c2bea39573","label": "Dist Group Two"},{"id":
-                "936eb764-36c4-4ac6-b264-c532caeb217c","label": "Group Me Up Buttercup - Distribution"}]</td>
+                [{"id": "68c2878a-6739-438c-bf5a-d8c2bea39573","label": "Local AD Group One"},{"id":
+                "936eb764-36c4-4ac6-b264-c532caeb217c","label": "Another Local AD Group"}]</td>
             <td>list</td>
         </tr>
         <tr>
             <td>form_default_security_aad_groups</td>
             <td>Used so that if the form forces a default, this is the value supplied in the if statement. Example is
-                [{"id": "68c2878a-6739-438c-bf5a-d8c2bea39573","label": "Dist Group Two"},{"id":
-                "936eb764-36c4-4ac6-b264-c532caeb217c","label": "Group Me Up Buttercup - Distribution"}]</td>
+                [{"id": "68c2878a-6739-438c-bf5a-d8c2bea39573","label": "Security Group One"},{"id":
+                "936eb764-36c4-4ac6-b264-c532caeb217c","label": "Security Group Two"}]</td>
             <td>list</td>
         </tr>
         <tr>
             <td>form_default_department</td>
             <td>Used so that if the form forces a default, this is the value supplied in the if statement. Example is
-                [{"department": "Jesse"},{"department": "dam"}]</td>
+                [{"department": "HR"},{"department": "Finance"}]</td>
             <td>list</td>
         </tr>
         <tr>
