@@ -30,7 +30,9 @@ Before configuring the Rewst integration you must generate an API user. Here is 
 14. **Select** all of the Teams and click Save
 
 {% hint style="warning" %}
-When creating the API Agent, ensure that the `Allow use of all Customers` Client Restriction setting is set to `Yes` if you want to enable Rewst to interact with your Customers.
+**Required for Mapping Customers in the Integration**
+
+When creating the API Agent, ensure that the `Allow use of all Customers` Client Restriction setting is set to `Yes` if you want to allow Rewst to interact with your customer records.
 {% endhint %}
 
 ### Configuring the Integration
