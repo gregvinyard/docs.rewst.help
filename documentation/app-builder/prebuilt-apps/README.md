@@ -1,4 +1,8 @@
-# Prebuilt Apps
+# 🗓️ Prebuilt Apps
+
+{% hint style="warning" %}
+_**Prebuilt Apps are an exciting new feature that will be available by the end of November! Please feel free to read on and see what's on the horizon!**_
+{% endhint %}
 
 ## Welcome to the Prebuilt Apps
 
