@@ -1,4 +1,4 @@
-# 🗓️ Prebuilt Apps
+# 🗓️ Prebuilt Apps (Coming Soon!)
 
 {% hint style="warning" %}
 _**Prebuilt Apps are an exciting new feature that will be available by the end of November! Please feel free to read on and see what's on the horizon!**_
@@ -10,7 +10,7 @@ The Prebuilt Apps page is your gateway to powerful, ready-made solutions that en
 
 ***
 
-### Available Apps
+### Available Apps (Coming Soon)
 
 #### 1. Forms Portal
 
