@@ -624,6 +624,7 @@
   * [June 7th, 2024](updates/marketplace-updates/june-7th-2024.md)
   * [May 31st 2024](updates/marketplace-updates/may-31st-2024.md)
 * [ROC Open Mics](updates/roc-open-mics/README.md)
+  * [Oct 25, 2024: Oh? See What Just Hatched!](updates/roc-open-mics/oct-25-2024-oh-see-what-just-hatched.md)
   * [Oct 18, 2024: The Teams Bot That Does Literally Everything](updates/roc-open-mics/oct-18-2024-the-teams-bot-that-does-literally-everything.md)
   * [Oct 11, 2024: Unlock Hidden Azure AD Data with this GENIUS Workflow Trick](updates/roc-open-mics/oct-11-2024-unlock-hidden-azure-ad-data-with-this-genius-workflow-trick.md)
   * [Oct 4, 2024: When This Integration Tells Rewst To Do Things For It](updates/roc-open-mics/oct-4-2024-when-this-integration-tells-rewst-to-do-things-for-it.md)
