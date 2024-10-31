@@ -15,7 +15,7 @@ _Disclaimer: This article will be updated as Role functionality will be added ov
 
 ### Admin
 
-The Admin role is for the super user who will have access permissions to everything in their organization. They can do things like:
+The Admin role is for the super user who will have access permissions to everything in their organization. They can do the following at the top level organization:
 
 * Add and remove Users
 * Add user Roles
@@ -23,13 +23,27 @@ The Admin role is for the super user who will have access permissions to everyth
 * Check Results
 * Add, edit, and configure forms
 * Manage integrations and organization variables
-* Etc
+* Create a test user that can Create, Read, Update, and Delete
+  * This is similar to user impersonation without requiring a real user
+* Create custom roles based on the following default permissions:
+  * rewst.view
+  * rewst.edit
+  * rewst.admin\_access
+  * rewst.form.view
+  * rewst.app\_platform.view
+  * Additional Create, Read, Update, Delete granular permissions
 
-At the top level organization, an Admin will be able to see all of the customer organizations and manage information there. At the customer level, An Admin will be able to access the same information for the customer organization.
+An Admin will be able to see all of the customer organizations and manage information there. At the customer level, An Admin will be able to access the same information for the customer organization.
 
 ### Member
 
-The only way the Member role differs from the Admin role at this time is in that a Member does not have the permissions to change user roles like an Admin can. Further changes will be made soon so that the Member Role will not be able to do things such as adding or editing users and organizations.
+The Member role can do the following in the Member's organization:
+
+* Add and remove Users
+* View, edit, and build workflows
+* Check Results
+* Add, edit, and configure forms
+* Manage integrations and organization variables
 
 ### Forms
 
