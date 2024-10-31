@@ -69,9 +69,13 @@ In order to use the Microsoft Graph Subscription Triggers, the following permiss
 
 ### CSP Integration
 
-There is only one permission required to use the CSP integration:
+These are the permissions required to use the CSP integration:
 
 <figure><img src="../../../../.gitbook/assets/csp_permissions_needed.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/msft-app-ids (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/request-api-permissions-user_impersonation.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 When choosing the Auth Subject:
