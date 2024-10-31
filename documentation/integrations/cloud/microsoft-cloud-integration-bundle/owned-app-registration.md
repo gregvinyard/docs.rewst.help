@@ -73,6 +73,10 @@ These are the permissions required to use the CSP integration:
 
 <figure><img src="../../../../.gitbook/assets/csp_permissions_needed.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="warning" %}
+Make sure to choose the _Microsoft Partner Center_ API highlighted below as the duplicates will cause issues with your integration.
+{% endhint %}
+
 <figure><img src="../../../../.gitbook/assets/msft-app-ids (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/request-api-permissions-user_impersonation.png" alt=""><figcaption></figcaption></figure>
