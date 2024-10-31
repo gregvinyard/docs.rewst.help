@@ -84,8 +84,8 @@ Make sure to choose the _Microsoft Partner Center_ API highlighted below as the 
 {% hint style="warning" %}
 When choosing the Auth Subject:
 
-* If you are using a CSP: Choose **Tenant ID** as it's the subject used for mult-tenancy when constructing an auth URL. This will install an enterprise app in the CSP customer tenants and you will be able to run actions for customers.&#x20;
-* If you're not using a CSP: Select **common** so that you are only exposing your app to your own tenant
+* **If you are using a CSP**: Choose **common** as it's the subject used for multi-tenancy when constructing an auth URL. This will install an enterprise app in the CSP customer tenants and you will be able to run actions for customers.
+* **If you're not using a CSP**: Select **Tenant ID** so that you are only exposing your app to your own tenant
 {% endhint %}
 
 <figure><img src="../../../../.gitbook/assets/single-tenant-multi-tenant-owned-app.png" alt=""><figcaption></figcaption></figure>
