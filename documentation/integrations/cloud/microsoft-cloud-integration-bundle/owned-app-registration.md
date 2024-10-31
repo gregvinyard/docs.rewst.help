@@ -73,6 +73,15 @@ There is only one permission required to use the CSP integration:
 
 <figure><img src="../../../../.gitbook/assets/csp_permissions_needed.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="warning" %}
+When choosing the Auth Subject:
+
+* If you're not using a CSP: Select **common** so that you are only exposing your app to your own tenant
+* If you are using a CSP: Choose **Tenant ID** as it's the subject used for mult-tenancy when constructing an auth URL. This will install an enterprise app in the CSP customer tenants and you will be able to run actions for customers.&#x20;
+{% endhint %}
+
+<figure><img src="../../../../.gitbook/assets/single-tenant-multi-tenant-owned-app.png" alt=""><figcaption></figcaption></figure>
+
 ### EXO Integration
 
 In order to use the EXO Integration, the highlighted permissions are required:
