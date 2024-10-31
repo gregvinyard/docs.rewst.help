@@ -8,7 +8,7 @@
 
 **Time:** 8:20 UTC / 4:20 AM EDT
 
-October 31st, 2024 at 8:20 UTC Rewst discovered an issue with workflow executions initializing in the European instance. This was escalated internally for review per standard process. Rewst traced the issue to a partition issue. This issue was fixed and Rewst is currently operating as normal while we work to publish a long-term fix to ensure this doesn't happen again.
+October 31st, 2024 at 8:20 UTC Rewst discovered an issue with workflow executions initializing in the European instance. UK Customers were not affected. This was escalated internally for review per the standard process. Rewst traced the issue to a partition issue. This issue was fixed and Rewst is currently operating as normal while we work to publish a long-term fix to ensure this doesn't happen again.
 
 **Updates**&#x20;
 
