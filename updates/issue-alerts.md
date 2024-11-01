@@ -4,13 +4,22 @@
 
 <summary> ⚠️ Rewst Experiencing Performance Degradation for US Region (November 1st, 2024)</summary>
 
+### Issue Resolved
+
+**Date**: Friday, November 1st, 2024\
+**Time**: 5:00 PM EDT
+
+The performance issues affecting Rewst’s user experience and workflow execution speeds have been fully resolved. Our team has completed remediation efforts, and all systems are now operating as expected. We appreciate your patience and understanding throughout the process.
+
+### Issue Identified
+
 **Date:** Friday, November 1st, 2024
 
 **Time:** 11:58 AM EST
 
 Rewst is experiencing performance degradation affecting user experience. Workflows are running, however the user interface experience and workflow execution speeds are degraded. We are investigating and we will share more information as it becomes available.
 
-**Updates**&#x20;
+### Updates
 
 **Time:** 3:36 PM EST\
 \
