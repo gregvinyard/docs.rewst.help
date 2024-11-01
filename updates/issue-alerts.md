@@ -2,6 +2,27 @@
 
 <details>
 
+<summary> ⚠️ Rewst Experiencing Performance Degradation for US Region (November 1st, 2024)</summary>
+
+**Date:** Friday, November 1st, 2024
+
+**Time:** 11:58 AM EST
+
+Rewst is experiencing performance degradation affecting user experience. Workflows are running, however the user interface experience and workflow execution speeds are degraded. We are investigating and we will share more information as it becomes available.
+
+**Updates**&#x20;
+
+For the latest information, please refer to [https://status.rewst.io/](https://status.rewst.io/)
+
+Please contact our support team if you have any questions or need further assistance.
+
+* **Discord** - The ROC is always available here: [https://discord.gg/rewst](https://discord.gg/rewst)
+* **Create a Ticket** - [E-mail the team](mailto:roc@rewst.io) and someone will be in touch ASAP!
+
+</details>
+
+<details>
+
 <summary> ⚠️ Workflows Failing to Execute in app.rewst.eu (October 31st, 2024)</summary>
 
 **Date:** Thursday, October 31st, 2024
