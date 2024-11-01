@@ -12,6 +12,10 @@ Rewst is experiencing performance degradation affecting user experience. Workflo
 
 **Updates**&#x20;
 
+**Time:** 3:36 PM EST\
+\
+We have identified the root cause of the performance issues impacting user experience on the Rewst platform. Our team has initiated remediation efforts and we are observing initial improvements in both user interface responsiveness and workflow execution speeds. We will continue to monitor the situation closely and provide further updates as progress is made. Thank you for your patience and understanding.
+
 For the latest information, please refer to [https://status.rewst.io/](https://status.rewst.io/)
 
 Please contact our support team if you have any questions or need further assistance.
