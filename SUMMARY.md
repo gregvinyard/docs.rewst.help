@@ -517,6 +517,7 @@
   * [November 4th 2022](updates/development-updates/november-4th-2022.md)
   * [October 28th 2022](updates/development-updates/october-28th-2022.md)
 * [Training Updates](updates/cs-and-training-updates/README.md)
+  * [November 1, 2024](updates/cs-and-training-updates/november-1-2024.md)
   * [October 25, 2024](updates/cs-and-training-updates/october-18th-2024.md)
   * [October 18, 2024](updates/cs-and-training-updates/october-18th-2024-1.md)
   * [October 11, 2024](updates/cs-and-training-updates/october-11-2024.md)
