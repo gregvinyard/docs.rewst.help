@@ -31,7 +31,7 @@ When considering the initiation of a new automation, remember that you cannot au
 
 1. **Document the Process**: Before automating, write out the entire process. Understand each step thoroughly.
 2. **Begin with an MVP (Minimum Viable Product)**: Start with the most fundamental aspect of the automation, make it functional, and then iterate.
-3. **Visualize the Workflow**: Using tools like Roost, or even on paper, draw out the flow of the process. It helps in understanding the entire workflow and in troubleshooting any hiccups.
+3. **Visualize the Workflow**: Using tools like Rewst, or even on paper, draw out the flow of the process. It helps in understanding the entire workflow and in troubleshooting any hiccups.
 4. **Consider All Contingencies**: Make sure to consider all possible paths, troubleshooting steps, inputs, and outputs.
 5. **Implement & Test**: Once scoped out, implement the automation and rigorously test it.
 
