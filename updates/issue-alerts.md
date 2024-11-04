@@ -9,7 +9,7 @@
 **Date**: Friday, November 1st, 2024\
 **Time**: 5:00 PM EDT
 
-The performance issues affecting Rewst’s user experience and workflow execution speeds have been fully resolved. Our team has completed remediation efforts, and all systems are now operating as expected. We appreciate your patience and understanding throughout the process.
+The performance issues affecting Rewst’s user experience and workflow execution speeds have been fully resolved. As part of our ongoing performance improvements, a change was made to a kafka timeout setting which caused workflow processing engines to leave and rejoin the processing cluster. The change was reverted and service performance restored. We appreciate your patience and understanding throughout the process.
 
 ### Issue Identified
 
