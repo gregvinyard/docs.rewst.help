@@ -27,7 +27,13 @@ Microsoft integrations, such as those with Microsoft CSP, Microsoft Graph, or Mi
 Client error `400 Bad Request` means there's an issue with the request. It's most likely that an incorrect value is being sent. Please verify the correctness of the values in the request.
 
 {% hint style="warning" %}
-We typically see the error being caused by forgetting to exclude the Rewst Service account for the Conditional Access Policy, or no Conditional Access configuration being present. To address this, **ensure that the Rewst service account is properly excluded from all Conditional Access policies in both yours and your clients' Azure environments.** Review the [#conditional-access](../authorization-best-practices.md#conditional-access "mention") section on the [authorization-best-practices.md](../authorization-best-practices.md "mention") page for more information.&#x20;
+When in the context of authorizing the Microsoft Cloud Bundle this error can sometimes be related to Conditional Access policies. Either on the MSP tenant (if failing to authorize) or on the customer tenant (when performing CPV consent aka clicking the blue shield).
+
+If the issue is during the initial authorization then it is important to check your conditional access policies and modify them to either exclude the user used to authorize the integration (typically the Rewst@ user) or to address the conflict (as an example, limiting access by location).
+
+If the issue is during CPV consent of a customer then you will need to check the customer's conditional access policies and modify them to exclude the service provider tenant or address the conflict (example from above could apply).
+
+For more information please see the authorization best practices documentation located [HERE](https://docs.rewst.help/documentation/integrations/cloud/microsoft-cloud-integration-bundle/authorization-best-practices#conditional-access)
 {% endhint %}
 
 ***
