@@ -14,9 +14,9 @@ The **Forms Portal** is a powerful and flexible solution that allows users to vi
 * **Search and Filtering**: Users can quickly search by form name or filter by tags to find the forms they need, making the process more efficient.
 * **Customisable Design**: The look and feel of the portal can be fully customised to match your brand or your customers' needs including overall styling guide and logo.
 
-### Customisability with Blumira CSS
+### Customisability with Bulma CSS
 
-We’ve designed the Forms Portal with **customisability** at the forefront. Leveraging **Blumira for CSS** allows you to easily modify the design across the entire site, ensuring it aligns with your or your client’s branding.
+We’ve designed the Forms Portal with **customisability** at the forefront. Leveraging **Bulma for CSS** allows you to easily modify the design across the entire site, ensuring it aligns with your or your client’s branding.
 
 #### How it Works:
 

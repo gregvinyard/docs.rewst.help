@@ -11,9 +11,9 @@ The **Reporting Portal** is designed specifically for MSPs who need powerful rep
 * **Device Health and Warranty Tracking**: Stay on top of your client devices, with automatic reporting on warranty status, device health, and replacement cycles. Never miss a critical date for warranty expiration or device end-of-life.
 * **Ticket Reporting and Trends**: Get a clear picture of your support operation's efficiency. Analyse ticket volumes, response times, and resolutions to ensure your team is performing at its best.
 
-### Customisability with Blumira CSS
+### Customisability with Bulma CSS
 
-As with the other portals, the **Reporting Portal** is built with **Blumira CSS**, allowing for seamless customisation to match your branding needs. Whether it’s changing the colour scheme or updating logos, you have full control over the look and feel of your portal.
+As with the other portals, the **Reporting Portal** is built with **Bulma CSS**, allowing for seamless customisation to match your branding needs. Whether it’s changing the colour scheme or updating logos, you have full control over the look and feel of your portal.
 
 #### How It Works:
 

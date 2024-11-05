@@ -12,9 +12,9 @@ The **End User Portal** is designed to empower end users by giving them direct a
 * **Ticket Logging and Workflow Integration**: Users can still log tickets and receive updates directly from the portal. Any automation action taken is seamlessly integrated with your Rewst workflows, meaning your team is always kept in the loop.
 * **Customisable Design**: Just like the Forms Portal, the End User Portal can be fully customised to match your or your clients' branding, including logos, colour schemes, and more.
 
-### Customisability with Blumira CSS
+### Customisability with Bulma CSS
 
-The **End User Portal** leverages the same powerful customisation options as the Forms Portal, using **Blumira for CSS** to ensure that the design aligns perfectly with your brand.
+The **End User Portal** leverages the same powerful customisation options as the Forms Portal, using **Bulma for CSS** to ensure that the design aligns perfectly with your brand.
 
 #### How It Works:
 
