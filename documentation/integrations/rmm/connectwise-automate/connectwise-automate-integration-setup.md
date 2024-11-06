@@ -46,6 +46,10 @@ In order to create a new ConnectWise Automate integration, you will need to crea
 
 <figure><img src="../../../../.gitbook/assets/2023-09-13_14-07-16.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="danger" %}
+If you have completed these steps and customers are not showing up when refreshing options, this is a permission issue. validate that you performed the steps above, and check to ensure the user class has access to customers.&#x20;
+{% endhint %}
+
 ## Integration
 
 Once you have created an integrator account, you will need to configure the integration within the Rewst platform.
