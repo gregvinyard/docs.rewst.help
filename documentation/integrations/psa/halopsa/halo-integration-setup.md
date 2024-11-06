@@ -59,14 +59,3 @@ Beneath that integration authentication section you will see the following optio
 2. **Refresh Options**: This will re-read the potential mapping options - both organizations and companies in Halo.
 3. **Save Mappings** This will apply mapping configuration changes.
 
-{% hint style="danger" %}
-If you are running into an issue where Customers are not showing when refreshing options, this is due to an issue with permissions. Make sure to check that both the User and API user have the following permissions, at minimum:&#x20;
-
-* View Customers
-* View Support Tickets
-* Add Time Entries
-* Create Support Tickets
-
-You may need to uninstall and reinstall the halo integration for the new permissions to take place.&#x20;
-{% endhint %}
-

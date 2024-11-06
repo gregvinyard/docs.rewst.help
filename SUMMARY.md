@@ -179,6 +179,7 @@
       * [Actions & Endpoints](documentation/integrations/psa/freshdesk/actions-and-endpoints.md)
     * [HaloPSA](documentation/integrations/psa/halopsa/README.md)
       * [Halo Integration Setup](documentation/integrations/psa/halopsa/halo-integration-setup.md)
+      * [Troubleshooting Halo Integration Setup](documentation/integrations/psa/halopsa/troubleshooting-halo-integration-setup.md)
       * [Actions & Endpoints](documentation/integrations/psa/halopsa/actions-and-endpoints.md)
     * [Kaseya BMS](documentation/integrations/psa/kaseya-bms/README.md)
       * [Kaseya BMS Integration Setup](documentation/integrations/psa/kaseya-bms/kaseya-bms-integration-setup.md)
