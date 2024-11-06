@@ -57,3 +57,8 @@ Beneath that integration authentication section you will see the following optio
 1. **Suggest Values**: This option will attempt to generate mappings between Rewst organizations and child organizations in this integration.
 2. **Refresh Options**: This will re-read the potential mapping options - for both organizations and companies in Datto.
 3. **Save Mappings**: This will apply mapping configuration changes.
+
+{% hint style="danger" %}
+If there are too many customers in the query, you may experience long loading times when refreshing options. If this is the case, you can make use of the page filters to make the list of customers smaller.&#x20;
+{% endhint %}
+
