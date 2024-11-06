@@ -2,6 +2,29 @@
 
 <details>
 
+<summary> ⚠️ Platform Disruption to Workflow Processes for US Customers (November 6th, 2024)</summary>
+
+**Date:** Wednesday, November 6th, 2024
+
+**Time:** 10:53 AM - 11:40AM EST
+
+On November 6, 2024, from 10:53 AM EST to 11:40 AM EST, an unintended disruption occurred in our production environment, impacting workflow processing for our US customers. While working towards a resolution, there were failures of workflows running at the time. This temporarily affected real-time processing across parts of our application. The issue was resolved and workflows are running as normal.&#x20;
+
+Thank you for your understanding as we work to strengthen our safeguards. We are committed to maintaining the reliability and resilience of our platform and will continue to enhance our processes to prevent such incidents in the future.
+
+**Updates**&#x20;
+
+For the latest information, please refer to [https://status.rewst.io/](https://status.rewst.io/)
+
+Please contact our support team if you have any questions or need further assistance.
+
+* **Discord** - The ROC is always available here: [https://discord.gg/rewst](https://discord.gg/rewst)
+* **Create a Ticket** - [E-mail the team](mailto:roc@rewst.io) and someone will be in touch ASAP!
+
+</details>
+
+<details>
+
 <summary> ⚠️ Rewst Experiencing Performance Degradation for US Region (November 1st, 2024)</summary>
 
 ### Issue Resolved
