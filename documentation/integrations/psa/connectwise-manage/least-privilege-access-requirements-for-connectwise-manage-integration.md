@@ -13,6 +13,10 @@ To initiate the successful authentication of the ConnectWise PSA integration wit
 * System → Member Maintenance: Inquire
 * Companies → Company Maintenance: Inquire
 
+{% hint style="danger" %}
+If you are seeing a 403 Forbidden error when running workflows, this is due to incorrect permissions. Ensure that the above authentication requirements are complete to resolve this error.&#x20;
+{% endhint %}
+
 ### Additional Action Requirements
 
 In addition to the above that’s required for authentication, there are several more actions the ConnectWise integration is capable of taking within Rewst. To use them all, you’ll need the following additional Security Roles configured for this account:
