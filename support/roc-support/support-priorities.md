@@ -49,7 +49,7 @@ Please note that these objectives are goals aimed at guiding our response times 
 
 ### <mark style="color:purple;">Need Escalation?</mark>
 
-If you believe your support query requires some level of escalation, we understand. Flexibility is important to us, and we're here to accommodate your needs. Please contact Adam or your Customer Success Manager (CSM) via the [Contact page](../contact-resources.md).  You can also ping us in Discord, knock on our doors or throw something through our windows - our focus is on making you guys happy.
+If you believe your support query requires some level of escalation, we understand. Flexibility is important to us, and we're here to accommodate your needs. Please contact ROC Leadership or your Customer Success Manager (CSM) via the [Contact page](../contact-resources.md).  You can also ping us in Discord, knock on our doors or throw something through our windows - our focus is on making you guys happy.
 
 
 
@@ -59,20 +59,20 @@ At Rewst, we are committed to providing exceptional support while also respectin
 
 ### <mark style="color:green;">Standard Operating Hours</mark>
 
-**ROC Support Operating Hours:** Monday through Friday, 7 AM to 8 PM Eastern Time. During these hours, our team is actively available to address your support requests based on the priority levels outlined above.
+**ROC Support Operating Hours:** Monday through Friday, 4 AM to 9 PM Eastern Time. During these hours, our team is actively available to address your support requests based on the priority levels outlined above.
 
 ### <mark style="color:purple;">Extended Support and Flexibility</mark>
 
-While our official operating hours are until 8 PM EST, our team often goes above and beyond to assist customers outside of these times. This extended support is not guaranteed and should not be expected as the norm. However, you can always tag a request as required, and if someone is available to help, they will do their best to assist you.
+While our official operating hours are until 9 PM EST, our team often goes above and beyond to assist customers outside of these times. This extended support is not guaranteed and should not be expected as the norm. However, you can always tag a request as required, and if someone is available to help, they will do their best to assist you.
 
 ### <mark style="color:yellow;">Holiday Availability</mark>
 
-As a US-based company, our official holidays align with those in the United States. However, due to our international team members, there is often someone available even on US holidays. This means that for issues, you may still receive support even during these times, though response times might be longer than usual.
+As an international company, our team members observe official holidays according to their respective countries. However, due to the global nature of our team, there is often someone available, even during local holidays. This means you may still receive support during these times, though response times might be longer than usual.
 
 #### Notable Points:
 
 * **Extended Support:** This is a discretionary effort from our team members and not an official part of our service agreement.
-* **Holiday Support:** While we strive to provide assistance during US holidays, this is subject to the availability of our international team members.
+* **Holiday Support:** While we strive to provide assistance during local holidays, this is subject to the availability of our international team members.
 
 ### <mark style="color:red;">Acknowledgements and Gratitude</mark>
 
