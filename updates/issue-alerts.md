@@ -2,7 +2,7 @@
 
 <details>
 
-<summary> ⚠️ Platform Disruption to Workflow Processes for US Customers (November 6th, 2024)</summary>
+<summary> ⚠️ Resolved: Platform Disruption to Workflow Processes for US Customers (November 6th, 2024)</summary>
 
 **Date:** Wednesday, November 6th, 2024
 
@@ -25,14 +25,14 @@ Please contact our support team if you have any questions or need further assist
 
 <details>
 
-<summary> ⚠️ Rewst Experiencing Performance Degradation for US Region (November 1st, 2024)</summary>
+<summary> ⚠️ Resolved: Rewst Experiencing Performance Degradation for US Region (November 1st, 2024)</summary>
 
 ### Issue Resolved
 
 **Date**: Friday, November 1st, 2024\
-**Time**: 5:00 PM EDT
+**Time**: 4:30 PM EDT
 
-The performance issues affecting Rewst’s user experience and workflow execution speeds have been fully resolved. Our team has completed remediation efforts, and all systems are now operating as expected. We appreciate your patience and understanding throughout the process.
+After further investigation, it was discovered that a previous settings change intended to improve performance was causing timeouts because of the large number of connections in the environment. Upon reverting the setting, performance returned back to normal around 4:30PM EDT.
 
 ### Issue Identified
 
@@ -40,13 +40,13 @@ The performance issues affecting Rewst’s user experience and workflow executio
 
 **Time:** 11:58 AM EST
 
-Rewst is experiencing performance degradation affecting user experience. Workflows are running, however the user interface experience and workflow execution speeds are degraded. We are investigating and we will share more information as it becomes available.
+ReOn Friday, November 1, 2024 beginning at 10:23AM EDT, the workflow engine began exhibiting slow performance while executing tasks. Our platform team was alerted when the pending task queue grew out of normal boundaries and began investigating the problem.
 
 ### Updates
 
-**Time:** 3:36 PM EST\
+**Time:** 2:00 PM EST\
 \
-We have identified the root cause of the performance issues impacting user experience on the Rewst platform. Our team has initiated remediation efforts and we are observing initial improvements in both user interface responsiveness and workflow execution speeds. We will continue to monitor the situation closely and provide further updates as progress is made. Thank you for your patience and understanding.
+Investigation showed that increasing the number of worker nodes had an adverse affect on workflow processing, pointing to a potential issue with the message queue system experiencing timeouts. To stabilize the task queues, the team adjusted the number of worker nodes until processing normalized, while continuing to troubleshoot the root cause. By 2PM EDT, the task processing rate was normalized, although still slower than normal.
 
 For the latest information, please refer to [https://status.rewst.io/](https://status.rewst.io/)
 
@@ -59,7 +59,7 @@ Please contact our support team if you have any questions or need further assist
 
 <details>
 
-<summary> ⚠️ Workflows Failing to Execute in app.rewst.eu (October 31st, 2024)</summary>
+<summary> ⚠️ Resolved: Workflows Failing to Execute in app.rewst.eu (October 31st, 2024)</summary>
 
 **Date:** Thursday, October 31st, 2024
 
@@ -92,7 +92,7 @@ During this period, the system will remain online; however, you may experience t
 
 <details>
 
-<summary> ⚠️  Slow User Interface (UI) Load Times (October 3rd, 2024)</summary>
+<summary> ⚠️  Resolved: Slow User Interface (UI) Load Times (October 3rd, 2024)</summary>
 
 **Date:** Thursday, October 3rd, 2024
 
@@ -118,7 +118,7 @@ If you’re impacted by this change, simply re-enable the form in your trigger s
 
 <details>
 
-<summary> ⚠️ Lost Form Access (September 12th, 2024)</summary>
+<summary> ⚠️ Resolved: Lost Form Access (September 12th, 2024)</summary>
 
 ### **Issue Identified**
 
@@ -167,7 +167,7 @@ Thank you for your understanding and patience as we work to improve our platform
 
 <details>
 
-<summary> ⚠️ Update Service Ticket Action Failure (August 7th, 2024)</summary>
+<summary> ⚠️ Resolved: Update Service Ticket Action Failure (August 7th, 2024)</summary>
 
 **⚠️ We are pleased to inform you that the issue affecting workflows containing the ConnectWise Update Service Ticket (v1) action has been successfully resolved. Normal functionality has resumed. All services should now be operating as expected. ⚠️**
 
@@ -198,7 +198,7 @@ Please contact our support team if you have any questions or need further assist
 
 <details>
 
-<summary> ⚠️ Forms Users Experiencing Login Delays and Timeouts (July 16th, 2024)</summary>
+<summary> ⚠️ Resolved: Forms Users Experiencing Login Delays and Timeouts (July 16th, 2024)</summary>
 
 **⚠️ This issue has been successfully resolved and we are closing this alert. An RCA report will be available upon request. ⚠️**
 
