@@ -1,31 +1,20 @@
----
-description: >-
-  Discover Rewst's new support process for faster, efficient assistance. Learn
-  how to log tickets for urgent queries and our commitment to prioritize them
----
-
 # ROC Support
 
 ## ROC Support Operating Hours:
 
-ROC Support - Operating Hours Monday thru Friday 7AM to 8PM Eastern
+ROC Support - Operating Hours Monday thru Friday 4AM to 9PM Eastern
 
-## New Support Process at Rewst
+## How to Log a Ticket
 
-Hello, Rewst community! We're making some changes to ensure we can offer you the best possible support, in the quickest time possible. As we scale, we want to always ensure the best possible support. To do that, we're introducing a new process for more urgent support queries.
+To log a ticket, we have various channels available to you
+* You can send a message to our team via your private customer channel in Discord. We aim to respond to these messages within 60 minutes
+* [use the command to create a ticket from a message](create-a-ticket-via-discord.md). This will alert our support team and they will respond as quickly as possible.
+* Email us at [the_roc@rewst.io](mailto:the\_roc@rewst.io)
 
-### When to Log a Ticket
+## Our Commitment
 
-If you have a pressing issue that needs immediate attention, please log a ticket via Discord. This process is outlined in our [documentation](../../). This is different from having a casual discussion on your channel.
+We're committed to providing you with an excellent support experience. If you would like to speak with a member of the ROC Leadership team, please visit our [Contact Resources](../contact-resources.md) page for all the details you need.
 
-### How to Log a Ticket
+## Questions?
 
-To log a ticket, [use the command to create a ticket from a message](create-a-ticket-via-discord.md). This will alert our support team and they will respond as quickly as possible.&#x20;
-
-### Our Commitment
-
-We're setting internal objectives to reply to ticket queries faster than standard messages. While we love chatting with you, this new process will help us prioritize urgent issues and ensure they're resolved quickly.
-
-### Questions?
-
-If you have any questions about this new process, feel free to tag a member of the ROC or via our [Contact Us page](../contact-resources.md). We're here to help!
+If you have any questions about this process, feel free to tag a member of the ROC in Discord or via our [Contact Us page](../contact-resources.md). We're here to help!
