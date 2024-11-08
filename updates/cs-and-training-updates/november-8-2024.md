@@ -13,7 +13,7 @@ Explore what new changes the Training team has made in the last week.
     * Take the [foundations-certification.md](../../cluck-university/rewst-foundations/foundations-certification.md "mention") Exam, and collect your prestigious **Certified Rewster** badge in Discord.&#x20;
     * You also get access to a super secret Discord channel.
   * Andrew, Eaven, Chad, Arbyn, Cody, Robert, and Jimmy for passing the Clean Automation Certification.
-    * Take the new [clean-automation-certification.md](../../cluck-university/clean-automation/clean-automation-certification.md "mention")exam!
+    * Take the new [clean-automation-certification.md](../../cluck-university/clean-automation/clean-automation-certification.md "mention") exam!
 * **Rewst Foundations Bootcamp: Dec 2 - Dec 3:**
   * Sign up: [https://calendly.com/cluck-u/](https://calendly.com/cluck-u/)
     * [https://calendly.com/cluck-u/rewst-foundations-bootcamp-pt-1](https://calendly.com/cluck-u/rewst-foundations-bootcamp-pt-1)
