@@ -50,6 +50,10 @@ $commands = ($wc.DownloadString($script_content_url))
 iex $commands
 ```
 
+{% hint style="warning" %}
+To ensure successful workflows, make sure the above is complete. If the above steps are skipped, you will have Workflow failures when using List Component actions.&#x20;
+{% endhint %}
+
 ### Complete Setup in Rewst
 
 Follow the below steps to configure a new integration in Rewst:
