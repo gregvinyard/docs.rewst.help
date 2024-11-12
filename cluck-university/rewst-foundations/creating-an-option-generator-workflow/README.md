@@ -23,10 +23,10 @@ In this lesson, we review context data from the form and workflow that you creat
 
 To get started, select the first module. Each module includes a video and written guidance with resources, followed by navigation to go back/forward. To wrap up the lesson, visit [Next Steps](./#next-steps).
 
-1. Introduction to Option Generators (6 Minutes)
-2. How to Create, Configure, and Trigger an Option Generator Workflow (5 _Minutes)_
-3. Using Jinja in Data Aliases and Creating an API Request Action (13 _Minutes)_
-4. Connecting an Option Generator Workflow to a Rewst Form (6 _Minutes)_
+1. [introduction-to-option-generators.md](introduction-to-option-generators.md "mention") (6 Minutes)
+2. [how-to-create-configure-and-trigger-an-option-generator-workflow.md](how-to-create-configure-and-trigger-an-option-generator-workflow.md "mention") (5 _Minutes)_
+3. [using-jinja-in-data-aliases-and-creating-an-api-request-action.md](using-jinja-in-data-aliases-and-creating-an-api-request-action.md "mention") (13 _Minutes)_
+4. [connecting-an-option-generator-workflow-to-a-rewst-form.md](connecting-an-option-generator-workflow-to-a-rewst-form.md "mention") (6 _Minutes)_
 
 ### Lesson Resources
 

@@ -22,9 +22,9 @@ Complete all resources in the [Getting Started](../../getting-started/) section 
 
 To get started, select the first module. Each module includes a video and written guidance with resources, followed by navigation to go back/forward. To wrap up the lesson, quiz your knowledge of this lesson and get credit for going through this lesson by visiting [Next Steps](./#next-steps),
 
-1. [Introduction to Automation and Scoping](intro-to-automation-and-scoping.md) (_4 Minutes_)
-2. [3 Key Principles for Every Automation](3-key-principles-for-every-automation.md) (5 _Minutes_)
-3. [Automating a Business Process](101-laying-the-foundations-of-automations.md) (3 _Minutes_)
+1. [intro-to-automation-and-scoping.md](intro-to-automation-and-scoping.md "mention") (_4 Minutes_)
+2. [3-key-principles-for-every-automation.md](3-key-principles-for-every-automation.md "mention") (5 _Minutes_)
+3. [101-laying-the-foundations-of-automations.md](101-laying-the-foundations-of-automations.md "mention") (3 _Minutes_)
 
 ### Lesson Resources
 
