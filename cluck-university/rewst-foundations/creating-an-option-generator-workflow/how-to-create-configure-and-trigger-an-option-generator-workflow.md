@@ -52,10 +52,55 @@ Log into Rewst and complete the following steps.
 6. **Select** Microsoft Graph for integration override.
 7. **Select** your own organization
    * Test with a user you're comfortable with (maybe yourself).
-   * If you want to use this process for your customers, refer to the special instructions on the Rewst 104 tutorial page in Cluck University
+   * If you want to use this process for your customers, refer to the optional instructions below.
 8. **Submit** to save the trigger.
 
 </details>
+
+<details>
+
+<summary>Optional: Instructions for All Managed Organizations</summary>
+
+### Step 1: Configure the Trigger
+
+1. Configure the trigger Option Generator for Microsoft Groups
+   1. Activate Trigger to Run For: Toggle "All current(#) and future managed organizations"
+
+### Step 2: Creating an Options Generator for Users
+
+1. Create a new workflow
+2. Name the workflow Users Option Generator
+3. Configure the Workflow settings
+   1. Workflow Type:
+      1. Options Generator
+   2. Output Configuration:
+      1. Field Name: `options`
+      2. Value: `{{ CTX.users }}`
+   3. Select Submit
+4. Add the Microsoft Graph action `List Users`
+5. Create a Data Alias in the `List Users` action.
+   1. Key: `users`
+   2. Value: `RESULT.result.data.value`
+6. Add a Trigger
+   1. Name: Graph Users Always Pass
+   2. Toggle Enabled
+   3. Trigger Type: Core - Always Pass
+   4. Integration Overrides: Microsoft Graph
+   5. Activate Trigger to Run For: Toggle "All current(#) and future managed organizations"
+      1. You can always pick and choose specific organizations.
+
+### Step 3: Connect the Users Option Generator to the User Field.
+
+1. Navigate to the Form hcreated in Lesson 2
+2. Select the User field
+3. Toggle Workflow Generated
+4. Select the Users Option Generator
+5. Change `label` to `displayName` under Label Field
+6. Select the Trigge
+
+</details>
+
+
 
 ### Action Item
 
