@@ -18,7 +18,7 @@ There are a few requirements for the Datto RMM integration to work that need con
 
 **The CPT file can be found here:**
 
-{% file src="../../../../.gitbook/assets/Rewst Script Run Powershell (1).cpt" %}
+{% file src="../../../../.gitbook/assets/Rewst Script Run Powershell.cpt" %}
 Download and import the Datto RMM CPT file to enable on-prem scripts.
 {% endfile %}
 
@@ -71,3 +71,7 @@ Follow the below steps to configure a new integration:
 3. **Click** or search for "Datto RMM".
 4. **Complete** the form with the details you created.
 5. **Click** Save.
+
+{% hint style="danger" %}
+Please note that Datto Quick Jobs can take 10 - 30 minutes to execute. To speed this up, you can either use BYOD to speed up form load time. You can find more information here:  [byod-for-dattormm.md](../../database/byod-for-dattormm.md "mention")
+{% endhint %}
