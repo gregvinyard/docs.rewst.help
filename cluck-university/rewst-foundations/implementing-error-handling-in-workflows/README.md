@@ -7,7 +7,7 @@ description: >-
 
 # Lesson 6: Implementing Error-Handling in Rewst Workflows
 
-t to Eggs-pect
+## Whatt to Eggs-pect
 
 After completing this lesson, participants will be able to:
 
