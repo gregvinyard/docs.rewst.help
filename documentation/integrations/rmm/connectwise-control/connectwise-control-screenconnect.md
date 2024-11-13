@@ -31,6 +31,10 @@ To allow Rewst access to your ConnectWise Control, you'll need to create a new u
 7. **Make a note** of the **username**, **password**, and **TOTP** secret you provide and input them below.
 8. **Click** Save Configuration.
 
+{% hint style="warning" %}
+You may run into a scenario where refesh options is not working. If this is the case, you can change the root session group to _All Machines_ to see if it pulls in customers. If this doesn't resolve the issue, you can contact support as found here: [support-priorities.md](../../../../support/roc-support/support-priorities.md "mention")
+{% endhint %}
+
 ## Actions
 
 ### Get Session
