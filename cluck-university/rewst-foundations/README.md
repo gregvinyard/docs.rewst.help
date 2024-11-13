@@ -28,6 +28,22 @@ Use the left-hand menu to expand this page and navigate lesson by lesson (throug
 6. [implementing-error-handling-in-workflows](implementing-error-handling-in-workflows/ "mention")
 7. [optimizing-workflow-design](optimizing-workflow-design/ "mention")
 
+## Live Instructor-Led Bootcamp
+
+Join our monthly live instructor-led bootcamp, where an expert instructor will guide you through all seven lessons across two focused sessions, each 3.5 hours long. This bootcamp is designed to:
+
+* **Provide Real-Time Interaction**: Ask questions and get immediate answers as you progress through each lesson, ensuring you fully understand each concept.
+* **Offer Dedicated Time for Learning**: With a structured schedule and a knowledgeable instructor, you’ll stay focused and motivated, maximizing your learning experience.
+* **Go In-Depth with Rewst**: Dive deeper into Rewst’s capabilities, with insights into best practices and advanced strategies for optimal usage.
+
+### Hands-On Experience
+
+These sessions are interactive and hands-on, giving you practical experience within Rewst. To make the most of the bootcamp, ensure you have access to Rewst and your Microsoft integrations are set up beforehand.
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><em>Secure your spot for Session 1 and dive into the essentials with an expert by your side!</em><br><br><a href="https://calendly.com/cluck-u/rewst-foundations-bootcamp-pt-1"><strong>Sign Up Now for Session 1</strong> </a></td><td></td><td></td><td><a href="https://calendly.com/cluck-u/rewst-foundations-bootcamp-pt-1">https://calendly.com/cluck-u/rewst-foundations-bootcamp-pt-1</a></td></tr><tr><td><em>Don’t miss out on Session 2—finish strong and learn the  Rewst features that will take you to the next level.</em></td><td></td><td><a href="https://calendly.com/cluck-u/rewst-foundations-bootcamp-pt-2"><strong>Sign Up Now for Session 2</strong></a></td><td><a href="https://calendly.com/cluck-u/rewst-foundations-bootcamp-pt-2">https://calendly.com/cluck-u/rewst-foundations-bootcamp-pt-2</a></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+
+
 ## Feedback and Support
 
 Share feedback on your learning experience [in this survey](https://www.surveymonkey.com/r/rewsttrainingfeedback)!
