@@ -2,7 +2,36 @@
 
 <details>
 
-<summary> ⚠️ Resolved: Platform Disruption to Workflow Processes for US Customers (November 6th, 2024)</summary>
+<summary>⚠️ Resolved: App Builder Domains Not Provisioned in UK (November 13th, 2024)</summary>
+
+### Issue Resolved
+
+**Date**: Friday, November 13th, 2024\
+**Time**: 7:38 PM EDT
+
+We were performing upgrades across all Rewst instances to how we provision domains for live sites. The upgrades were successful in all of our instances, but failed in prod US at 6:33 PM EST. We were troubleshooting for 50 minutes and managed to roll back at 7:23PM bringing rew.st domains back up. There was additional work needed to get custom domains back, which was completed at 7:38PM.
+
+### Issue Identified
+
+**Date**: Friday, November 13th, 2024\
+**Time**: 6:33 PM EDT
+
+App Builder domains were not being provisioned in UK leading to live sites not being available.&#x20;
+
+### **Updates**&#x20;
+
+For the latest information, please refer to [https://status.rewst.io/](https://status.rewst.io/)
+
+Please contact our support team if you have any questions or need further assistance.
+
+* **Discord** - The ROC is always available here: [https://discord.gg/rewst](https://discord.gg/rewst)
+* **Create a Ticket** - [E-mail the team](mailto:roc@rewst.io) and someone will be in touch ASAP!
+
+</details>
+
+<details>
+
+<summary>⚠️ Resolved: Platform Disruption to Workflow Processes for US Customers (November 6th, 2024)</summary>
 
 **Date:** Wednesday, November 6th, 2024
 
@@ -25,7 +54,7 @@ Please contact our support team if you have any questions or need further assist
 
 <details>
 
-<summary> ⚠️ Resolved: Rewst Experiencing Performance Degradation for US Region (November 1st, 2024)</summary>
+<summary>⚠️ Resolved: Rewst Experiencing Performance Degradation for US Region (November 1st, 2024)</summary>
 
 ### Issue Resolved
 
@@ -59,7 +88,7 @@ Please contact our support team if you have any questions or need further assist
 
 <details>
 
-<summary> ⚠️ Resolved: Workflows Failing to Execute in app.rewst.eu (October 31st, 2024)</summary>
+<summary>⚠️ Resolved: Workflows Failing to Execute in app.rewst.eu (October 31st, 2024)</summary>
 
 **Date:** Thursday, October 31st, 2024
 
@@ -80,7 +109,7 @@ Please contact our support team if you have any questions or need further assist
 
 <details>
 
-<summary> ⚠️  Routine System Maintenance (October 26, 2024)</summary>
+<summary>⚠️  Routine System Maintenance (October 26, 2024)</summary>
 
 **Date:** Saturday, October 26, 2024
 
@@ -92,7 +121,7 @@ During this period, the system will remain online; however, you may experience t
 
 <details>
 
-<summary> ⚠️  Resolved: Slow User Interface (UI) Load Times (October 3rd, 2024)</summary>
+<summary>⚠️  Resolved: Slow User Interface (UI) Load Times (October 3rd, 2024)</summary>
 
 **Date:** Thursday, October 3rd, 2024
 
@@ -104,7 +133,7 @@ October 3, 2024 at 22:00 UTC Rewst was notified of slow user interface (UI) load
 
 <details>
 
-<summary> ⚠️  Update To Disable Forms (September 30th, 2024)</summary>
+<summary>⚠️  Update To Disable Forms (September 30th, 2024)</summary>
 
 ### **Issue Identified**
 
@@ -118,7 +147,7 @@ If you’re impacted by this change, simply re-enable the form in your trigger s
 
 <details>
 
-<summary> ⚠️ Resolved: Lost Form Access (September 12th, 2024)</summary>
+<summary>⚠️ Resolved: Lost Form Access (September 12th, 2024)</summary>
 
 ### **Issue Identified**
 
